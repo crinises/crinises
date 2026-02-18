@@ -89,7 +89,7 @@
 
 ## GitHub Statistics
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=crinises&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c8ef7&icon_color=6c8ef7&text_color=c9d1d9&count_private=true&include_all_commits=true" width="49%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=crinises&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c8ef7&icon_color=6c8ef7&text_color=c9d1d9&count_private=true&include_all_commits=true&hide_rank=true" width="49%"/>
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=crinises&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c8ef7&text_color=c9d1d9&langs_count=8" width="49%"/>
 
 <br/>
