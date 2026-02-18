@@ -4,14 +4,12 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1200&color=6C8EF7&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=Salutare%2C+sunt+Celestia+%F0%9F%91%8B;Incantata+de+cunostinta!;It+works+on+my+machine+%F0%9F%A4%B7%E2%80%8D%E2%99%80%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1200&color=6C8EF7&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=Hi%2C+I+am+Celestia.+Nice+to+meet+you.;I+build+apps+with+.NET+and+Java.;It+works+on+my+machine.+Ship+it.)](https://git.io/typing-svg)
 
 <br/>
 
-> *"It works on my machine."*
 
 
-<br/>
 
 ---
 
@@ -20,29 +18,29 @@
 <table>
   <tr>
     <td><b>Name</b></td>
-    <td>Gîlca Cristina</td>
+    <td>Celestia/td>
   </tr>
-  <tr>
-    <td><b>Also known as</b></td>
-    <td>Celestia</td>
-  </tr>
+
   <tr>
     <td><b>Location</b></td>
-    <td>🇲🇩</td>
+    <td>R.M.</td>
   </tr>
   <tr>
     <td><b>Status</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Student-Future%20Developer%20%7C%20Future%20Tester%20%7C%20Still%20figuring%20it%20out%20%F0%9F%A4%94-6c8ef7?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Student-Future%20Developer%20%7C%20Future%20Tester%20%7C%20Still%20figuring%20it%20out-6c8ef7?style=for-the-badge"/>
     </td>
   </tr>
   <tr>
     <td><b>Languages</b></td>
     <td>
       <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
       <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -118,13 +116,15 @@
 
 ## My Projects
 
-<a href="https://github.com/crinises/Market-Online ">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=crinises&repo=Market-Online &theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c8ef7&icon_color=6c8ef7&text_color=c9d1d9" width="48%"/>
+<a href="https://github.com/crinises/Market-Online">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=crinises&repo=Market-Online&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c8ef7&icon_color=6c8ef7&text_color=c9d1d9" width="48%"/>
 </a>
 
 
 
-[**See all projects →**](https://github.com/crinises?tab=repositories&sort=updated)
+<br/><br/>
+
+[**See all projects**](https://github.com/crinises?tab=repositories&sort=updated)
 
 <br/>
 
@@ -132,7 +132,7 @@
 
 ## Tech Stack
 
-<img src="https://skillicons.dev/icons?i=cs,java,dotnet,mysql,sqlite,git,github,html,css,visualstudio,idea,windows&perline=6&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=cs,cpp,java,js,html,css,dotnet,mysql,sqlite,git,github,visualstudio,idea,windows&perline=7&theme=dark"/>
 
 <br/>
 
@@ -143,7 +143,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=crinises&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6c8ef7&line=6c8ef7&point=ffffff&area=true" width="100%"/>
 
 <br/>
-
 
 ---
 
