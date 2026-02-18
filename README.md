@@ -8,8 +8,8 @@
 
 <br/>
 
-> "It works on my machine."
-> — me, every single time 🤷‍♀️
+> *"It works on my machine."*
+
 
 <br/>
 
@@ -24,11 +24,11 @@
   </tr>
   <tr>
     <td><b>Also known as</b></td>
-    <td>Celestia </td>
+    <td>Celestia</td>
   </tr>
   <tr>
     <td><b>Location</b></td>
-    <td>🇲🇩 </td>
+    <td>🇲🇩</td>
   </tr>
   <tr>
     <td><b>Status</b></td>
@@ -87,40 +87,16 @@
 
 ---
 
-## My coding reality 😭
 
-```
-Me:   *writes 50 lines of code*
-Me:   *runs the program*
-IDE:  1 error found.
-Me:   okay fine, just one
-IDE:  49 errors found.
-Me:   ...
-```
-
-```
-Also me at 2am:
-"why is it not working"
-*missing semicolon*
-"why is it STILL not working"
-*missing semicolon again*
-"I QUIT"
-*adds one more semicolon*
-"it works :D"
-```
-
-<br/>
-
----
 
 ## GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=crinises&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c8ef7&icon_color=6c8ef7&text_color=c9d1d9&count_private=true&include_all_commits=true&cache_seconds=1800" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crinises&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c8ef7&text_color=c9d1d9&langs_count=8&cache_seconds=1800" width="49%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=crinises&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c8ef7&icon_color=6c8ef7&text_color=c9d1d9&count_private=true&include_all_commits=true" width="49%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=crinises&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c8ef7&text_color=c9d1d9&langs_count=8" width="49%"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=crinises&theme=tokyonight&hide_border=true&background=0d1117&ring=6c8ef7&fire=ff6b6b&currStreakLabel=6c8ef7&sideLabels=6c8ef7&dates=888888" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=crinises&theme=tokyonight&hide_border=true&background=0d1117&ring=6c8ef7&fire=ff6b6b&currStreakLabel=6c8ef7&sideLabels=6c8ef7&dates=888888" width="60%"/>
 
 <br/>
 
@@ -143,18 +119,10 @@ Also me at 2am:
 ## My Projects
 
 <a href="https://github.com/crinises/MarketApp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=crinises&repo=MarketApp&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c8ef7&icon_color=6c8ef7&text_color=c9d1d9" width="48%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=crinises&repo=MarketApp&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c8ef7&icon_color=6c8ef7&text_color=c9d1d9" width="48%"/>
 </a>
 
-<!--
-  Copy this block for each new project:
 
-  <a href="https://github.com/crinises/RepoName">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=crinises&repo=RepoName&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c8ef7&icon_color=6c8ef7&text_color=c9d1d9" width="48%"/>
-  </a>
--->
-
-<br/><br/>
 
 [**See all projects →**](https://github.com/crinises?tab=repositories&sort=updated)
 
@@ -175,6 +143,7 @@ Also me at 2am:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=crinises&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6c8ef7&line=6c8ef7&point=ffffff&area=true" width="100%"/>
 
 <br/>
+
 
 ---
 
