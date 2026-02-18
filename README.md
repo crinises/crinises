@@ -4,31 +4,40 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1200&color=6C8EF7&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=60&lines=Salut%2C+sunt+Cristina+%F0%9F%91%8B;Construiesc+aplicatii+cu+.NET+si+Java;Pasionata+de+baze+de+date+si+design)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1200&color=6C8EF7&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=Salutare%2C+sunt+Celestia+%F0%9F%91%8B;Incantata+de+cunostinta!;It+works+on+my+machine+%F0%9F%A4%B7%E2%80%8D%E2%99%80%EF%B8%8F)](https://git.io/typing-svg)
+
+<br/>
+
+> "It works on my machine."
+> — me, every single time 🤷‍♀️
 
 <br/>
 
 ---
 
-## Cine sunt
+## Who am I
 
 <table>
   <tr>
-    <td><b>Nume</b></td>
+    <td><b>Name</b></td>
     <td>Gîlca Cristina</td>
   </tr>
   <tr>
-    <td><b>Locatie</b></td>
-    <td>🇲🇩 Moldova</td>
+    <td><b>Also known as</b></td>
+    <td>Celestia </td>
+  </tr>
+  <tr>
+    <td><b>Location</b></td>
+    <td>🇲🇩 </td>
   </tr>
   <tr>
     <td><b>Status</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Student%20%26%20Developer-6c8ef7?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Student-Future%20Developer%20%7C%20Future%20Tester%20%7C%20Still%20figuring%20it%20out%20%F0%9F%A4%94-6c8ef7?style=for-the-badge"/>
     </td>
   </tr>
   <tr>
-    <td><b>Limbaje</b></td>
+    <td><b>Languages</b></td>
     <td>
       <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -45,7 +54,7 @@
     </td>
   </tr>
   <tr>
-    <td><b>Baze de date</b></td>
+    <td><b>Databases</b></td>
     <td>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
       <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
@@ -62,7 +71,7 @@
     </td>
   </tr>
   <tr>
-    <td><b>In invatare</b></td>
+    <td><b>Currently learning</b></td>
     <td>
       <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
       <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
@@ -78,7 +87,33 @@
 
 ---
 
-## Statistici GitHub
+## My coding reality 😭
+
+```
+Me:   *writes 50 lines of code*
+Me:   *runs the program*
+IDE:  1 error found.
+Me:   okay fine, just one
+IDE:  49 errors found.
+Me:   ...
+```
+
+```
+Also me at 2am:
+"why is it not working"
+*missing semicolon*
+"why is it STILL not working"
+*missing semicolon again*
+"I QUIT"
+*adds one more semicolon*
+"it works :D"
+```
+
+<br/>
+
+---
+
+## GitHub Statistics
 
 <img src="https://github-readme-stats.vercel.app/api?username=crinises&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c8ef7&icon_color=6c8ef7&text_color=c9d1d9&count_private=true&include_all_commits=true&cache_seconds=1800" width="49%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crinises&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c8ef7&text_color=c9d1d9&langs_count=8&cache_seconds=1800" width="49%"/>
@@ -91,7 +126,7 @@
 
 ---
 
-## Analiza activitatii
+## Activity Analysis
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crinises&theme=tokyonight" width="100%"/>
 
@@ -105,29 +140,29 @@
 
 ---
 
-## Proiectele mele
+## My Projects
 
 <a href="https://github.com/crinises/MarketApp">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=crinises&repo=MarketApp&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c8ef7&icon_color=6c8ef7&text_color=c9d1d9" width="48%"/>
 </a>
 
 <!--
-  Copiaza blocul de mai jos pentru fiecare proiect nou:
+  Copy this block for each new project:
 
-  <a href="https://github.com/crinises/NumeleRepo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=crinises&repo=NumeleRepo&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c8ef7&icon_color=6c8ef7&text_color=c9d1d9" width="48%"/>
+  <a href="https://github.com/crinises/RepoName">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=crinises&repo=RepoName&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c8ef7&icon_color=6c8ef7&text_color=c9d1d9" width="48%"/>
   </a>
 -->
 
 <br/><br/>
 
-[**Vezi toate proiectele →**](https://github.com/crinises?tab=repositories&sort=updated)
+[**See all projects →**](https://github.com/crinises?tab=repositories&sort=updated)
 
 <br/>
 
 ---
 
-## Tehnologii
+## Tech Stack
 
 <img src="https://skillicons.dev/icons?i=cs,java,dotnet,mysql,sqlite,git,github,html,css,visualstudio,idea,windows&perline=6&theme=dark"/>
 
@@ -135,7 +170,7 @@
 
 ---
 
-## Grafic de activitate
+## Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=crinises&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6c8ef7&line=6c8ef7&point=ffffff&area=true" width="100%"/>
 
@@ -143,8 +178,7 @@
 
 ---
 
-
-<img src="https://komarev.com/ghpvc/?username=crinises&style=for-the-badge&color=6c8ef7&label=VIZITATORI+PROFIL"/>
+<img src="https://komarev.com/ghpvc/?username=crinises&style=for-the-badge&color=6c8ef7&label=PROFILE+VIEWS"/>
 
 <br/>
 
