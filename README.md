@@ -118,8 +118,8 @@
 
 ## My Projects
 
-<a href="https://github.com/crinises/MarketApp">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=crinises&repo=MarketApp&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c8ef7&icon_color=6c8ef7&text_color=c9d1d9" width="48%"/>
+<a href="https://github.com/crinises/Market-Online ">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=crinises&repo=Market-Online &theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c8ef7&icon_color=6c8ef7&text_color=c9d1d9" width="48%"/>
 </a>
 
 
