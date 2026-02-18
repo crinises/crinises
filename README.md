@@ -18,7 +18,7 @@
 <table>
   <tr>
     <td><b>Name</b></td>
-    <td>Celestia/td>
+    <td>Celestia</td>
   </tr>
 
   <tr>
