@@ -1,155 +1,80 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Celestia&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Developer%20%7C%20.NET%20%7C%20Java%20%7C%20SQL&descAlignY=58&descSize=16&descColor=aaaaff" width="100%"/>
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1200&color=6C8EF7&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=Hi%2C+I+am+Celestia.+Nice+to+meet+you.;I+build+apps+with+.NET+and+Java.;It+works+on+my+machine.+Ship+it.)](https://git.io/typing-svg)
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,1a1a2e,16213e&height=180&section=header&text=hey,+I'm+Cris&fontSize=52&fontColor=c9d1d9&animation=fadeIn&fontAlignY=42&desc=cs+student+%2F+it+works+on+my+machine&descAlignY=62&descSize=14&descColor=6c8ef7" width="100%"/>
 
 <br/>
 
-
-
-
----
-
-## Who am I
-
-<table>
-  <tr>
-    <td><b>Name</b></td>
-    <td>Celestia</td>
-  </tr>
-
-  <tr>
-    <td><b>Location</b></td>
-    <td>R.M.</td>
-  </tr>
-  <tr>
-    <td><b>Status</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Student-Future%20Developer%20%7C%20Future%20Tester%20%7C%20Still%20figuring%20it%20out-6c8ef7?style=for-the-badge"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Languages</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Frameworks</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Windows%20Forms-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Databases</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Tools</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
-      <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-      <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Currently learning</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Motto</b></td>
-    <td><i>"It runs. I know it can fly."</i></td>
-  </tr>
-</table>
+```
+☕ coffee dependent      🌧️ rain > sun      📼 horror marathon every friday
+currently: debugging something that was working 5 minutes ago
+```
 
 <br/>
 
 ---
 
+### a bit about me
 
+student from moldova. i write code that sometimes compiles on the first try and i consider that a good day.
+i like rainy afternoons, black coffee, horror movies from the 90s, and figuring out why my app crashes only in production.
 
-## GitHub Statistics
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=crinises&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c8ef7&icon_color=6c8ef7&text_color=c9d1d9&count_private=true&include_all_commits=true&hide_rank=true" width="49%"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=crinises&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c8ef7&text_color=c9d1d9&langs_count=8" width="49%"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=crinises&theme=tokyonight&hide_border=true&background=0d1117&ring=6c8ef7&fire=ff6b6b&currStreakLabel=6c8ef7&sideLabels=6c8ef7&dates=888888" width="60%"/>
+when i'm not in front of a screen i'm probably watching something scary or pretending i'll read that book i bought 3 months ago.
 
 <br/>
 
 ---
 
-## Activity Analysis
+### what i work with
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crinises&theme=tokyonight" width="100%"/>
+<img src="https://skillicons.dev/icons?i=cs,cpp,java,js,html,css,dotnet,mysql,sqlite,git,github,visualstudio,idea&perline=7&theme=dark"/>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=crinises&theme=tokyonight" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=crinises&theme=tokyonight" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=crinises&theme=tokyonight&utcOffset=2" width="32%"/>
+currently learning → `ASP.NET Core` `Entity Framework` `how to explain my code to other humans`
 
 <br/>
 
 ---
 
-## My Projects
+### numbers (auto-updated)
 
-<a href="https://github.com/crinises/Market-Online">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=crinises&repo=Market-Online&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c8ef7&icon_color=6c8ef7&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=crinises&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c8ef7&icon_color=6c8ef7&text_color=c9d1d9&count_private=true&include_all_commits=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crinises&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c8ef7&text_color=c9d1d9&langs_count=8" width="49%"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=crinises&theme=tokyonight&hide_border=true&background=0d1117&ring=6c8ef7&fire=ff6b6b&currStreakLabel=6c8ef7&sideLabels=6c8ef7&dates=555555" width="60%"/>
+
+<br/>
+
+---
+
+### activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=crinises&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6c8ef7&line=6c8ef7&point=ffffff&area=true&area_color=6c8ef7" width="100%"/>
+
+<br/>
+
+---
+
+### projects
+
+
+<a href="https://github.com/crinises?tab=repositories&sort=updated">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=crinises&repo=Market-Online&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c8ef7&icon_color=6c8ef7&text_color=c9d1d9" width="48%"/>
 </a>
 
+<br/>
 
-
-<br/><br/>
-
-[**See all projects**](https://github.com/crinises?tab=repositories&sort=updated)
+[→ all repos](https://github.com/crinises?tab=repositories&sort=updated)
 
 <br/>
 
 ---
 
-## Tech Stack
+```
+"it runs. i know it can fly."
+```
 
-<img src="https://skillicons.dev/icons?i=cs,cpp,java,js,html,css,dotnet,mysql,sqlite,git,github,visualstudio,idea,windows&perline=7&theme=dark"/>
+<img src="https://komarev.com/ghpvc/?username=crinises&style=flat-square&color=6c8ef7&label=profile+views"/>
 
-<br/>
-
----
-
-## Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=crinises&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6c8ef7&line=6c8ef7&point=ffffff&area=true" width="100%"/>
-
-<br/>
-
----
-
-<img src="https://komarev.com/ghpvc/?username=crinises&style=for-the-badge&color=6c8ef7&label=PROFILE+VIEWS"/>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,1a1a2e,16213e&height=100&section=footer" width="100%"/>
