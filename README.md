@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=6C8EF7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%8C%A7%EF%B8%8F+rain+%3E+sun%2C+always.+%E2%98%95+black+coffee%2C+no+sugar.;%F0%9F%93%BC+horror+every+friday.+%F0%9F%90%9B+currently%3A+debugging.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=6C8EF7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=rain+%3E+sun%2C+always.+black+coffee;horror+every+friday.+currently%3A+debugging.)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,9 +17,12 @@
 student from Moldova. i write code, drink too much coffee, and watch horror movies when it rains — which means i watch a lot of horror movies.
 
 sudoku and chess on the side. it's just debugging with different syntax
+
+notion for everything else — tasks, notes, the occasional existential crisis list.
 <br/>
 
 ---
+
 
 ### stack
 
@@ -29,9 +32,9 @@ sudoku and chess on the side. it's just debugging with different syntax
 
 <br/>
 
-**used in projects** &nbsp;→&nbsp; `C#` &nbsp; `Java` &nbsp; `SQL` &nbsp; `WPF` &nbsp; `.NET` &nbsp; `MySQL` &nbsp; `HTML CSS JS` &nbsp; `Python` &nbsp; `C++`
+**used in projects** &nbsp;→&nbsp; `C#` &nbsp; `Java` &nbsp; `SQL` &nbsp; `WPF` &nbsp; `.NET` &nbsp; `MySQL` &nbsp; `HTML CSS`  &nbsp; `C++`
 
-**still figuring out** &nbsp;→&nbsp; `ASP.NET Core` &nbsp; `JavaScript`
+**still figuring out** &nbsp;→&nbsp; `ASP.NET Core` &nbsp; `JavaScript` &nbsp; `PHP`  &nbsp; `Python`
 
 ### stats
 
